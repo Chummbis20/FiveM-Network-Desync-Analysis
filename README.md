@@ -2,6 +2,8 @@
 
 > A detailed technical and human breakdown of a real FiveM desync incident — exploring how network jitter, packet loss, and interpolation buffer drains can mimic exploit behavior, and how to properly identify and mitigate it.
 
+> Why I made this: Because I want people to understand that there’s a big difference between genuine lag and actual exploit abuse — and that technical issues shouldn’t be mistaken for cheating.
+
 ---
 
 ## 📑 Table of Contents
