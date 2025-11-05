@@ -21,8 +21,6 @@
 - [❓ FAQs](#-faqs)
 - [📖 Glossary](#-glossary)
 - [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-- [👥 Credits](#-credits)
 - [📚 Further Reading](#-further-reading)
 
 ---
