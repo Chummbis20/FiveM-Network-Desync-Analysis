@@ -402,21 +402,12 @@ Contributions welcome!
 
 ---
 
-## 📜 License
-
-**MIT License** — See LICENSE for details
-
----
-
 ## 👥 Credits
 
 | Contributor | Role |
 |------------|------|
-| **Leon** | Technical analysis, profiler/tick insights |
 | **Chumbis20** | Case study, reproduction testing, documentation |
-| **Person1** | Diagnostic tools, discussion insights |
-
-**Special Thanks:** FiveM Development Team, QBCore Framework, The FiveM Community
+| **Person1** | Diagnostic tools, discussion insights, Technical analysis, profiler/tick insights |
 
 ---
 
